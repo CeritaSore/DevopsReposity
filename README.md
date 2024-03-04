@@ -1,5 +1,7 @@
-Repositori untuk Practice Docker
+Deskripsi repo
 ----
+Repositori ini dibuat untuk mempermudah member mendockerize aplikasi yang telah ada
+
 petunjuk
 ---
 - clone repository ini
