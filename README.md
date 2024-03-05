@@ -10,4 +10,7 @@ petunjuk
 - gunakan image node:hydrogen-slim
 - install express di dalam image
 - forward portnya ke 8877
-- screenshot hasil dari proses dockerisasi kalian dan upload ke 
+- screenshot hasil dari proses dockerisasi kalian dan upload ke
+Link Pengumpulan Tugas
+---
+- [https://s.id/GDSCNF-TugasDevOps](https://s.id/GDSCNF-TugasDevOps)
